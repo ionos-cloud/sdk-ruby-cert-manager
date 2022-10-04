@@ -1,9 +1,3 @@
-![CI](https://github.com/ionos-cloud/sdk-resources/workflows/%5B%20CI%20%5D%20Certificate%20Manager%20/%20Ruby/badge.svg)
-[![Gem Version](https://img.shields.io/gem/v/ionoscloud-cert-manager)](https://rubygems.org/gems/ionoscloud-cert-manager) 
-[![Gitter](https://badges.gitter.im/ionos-cloud/sdk-general.png)](https://gitter.im/ionos-cloud/sdk-general)
-
-![Alt text](.github/IONOS.CLOUD.BLU.svg?raw=true "Title")
-
 # Ruby API Client For IONOS Cloud Certificate Manager
 
 IonoscloudCertificateManager - the Ruby gem for the Certificate Manager API
